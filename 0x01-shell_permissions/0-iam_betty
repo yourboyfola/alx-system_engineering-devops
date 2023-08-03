@@ -1,1 +1,2 @@
-This command will switch user
+#!/bin/bash
+su betty
